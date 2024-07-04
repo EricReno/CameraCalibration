@@ -8,4 +8,6 @@
 
 - **ca_bev**: 根据配准计算相机外参（单映性矩阵），对图像进行投影变换，生成BEV图
 
-- **进阶版**--AVM环视拼接方法：https://mp.weixin.qq.com/s/CZR2iIMrlHgmihoqncuciA
+- **main**: 手动调节内参与畸变函数
+
+- **进阶版--AVM环视拼接方法**：https://mp.weixin.qq.com/s/CZR2iIMrlHgmihoqncuciA
